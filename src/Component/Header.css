@@ -1,0 +1,9 @@
+.walletAddress {
+  width: 130px;
+  display: inline-block;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  color: white;
+  overflow: hidden !important;
+}
